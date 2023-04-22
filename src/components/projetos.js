@@ -1,4 +1,5 @@
 import React from 'react'
+
 function projetos() {
   return (
     <div>
@@ -11,14 +12,6 @@ function projetos() {
               navegar e ter uma experiência em cada projeto .
             </p>
             <div className="sites">
-              <div className="site-text">
-                <p>Login system</p>
-                <a
-                  href="https://wellingtonokabayashi.github.io/login-system/"
-                  target="blank"
-                  className="login-system efect"
-                ></a>
-              </div>
               <div className="site-text">
                 <p>Projeto Dashbar</p>
                 <a
